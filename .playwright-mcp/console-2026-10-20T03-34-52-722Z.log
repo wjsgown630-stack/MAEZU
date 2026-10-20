@@ -1,0 +1,6 @@
+[   13988ms] [DIR] SyntaxError @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[   14651ms] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://googleads.g.doubleclick.net" from accessing a frame with origin "https://noonnu.cc". Protocols, domains, and ports must match.
+[   14775ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[   14961ms] [TIMEEND] a: 0.005859375 ms @ https://static.adsafeprotected.com/sca.17.6.4.js:31
+[   15977ms] [LOG] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://googleads.g.doubleclick.net" from accessing a cross-origin frame. @ https://choices.trustarc.com/get?name=pmw2.js:0
+[   16160ms] [LOG] Failed to read a named property 'document' from 'Window': Blocked a frame with origin "https://googleads.g.doubleclick.net" from accessing a cross-origin frame. @ https://choices.trustarc.com/get?name=pmw2.js:0

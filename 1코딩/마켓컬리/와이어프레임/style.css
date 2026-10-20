@@ -69,6 +69,14 @@ padding: 0;
 list-style: none;
 }
 
+/* component */
+.con{
+    width: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
 .top-banner{height: 42px;
 background-color:#5F0080 ;
 /* 글자 색상 */
@@ -80,17 +88,13 @@ font-size: 14px;
 }
 .utility-menu{
     /* 선 */
-    border: 1px solid red;
 }
-.con{
-    border: 1px solid orange;
-    width: 1050px; height: 35px;
-    margin-left: auto;
-    margin-right: auto;
-    display: flex;
-    justify-content: end;
-    align-items: center;
+.utility-con{
+ height: 35px;  
+ justify-content: end; 
+ align-items: center;   
 }
+
 .con>nav>ul {
     display: flex;
     gap: 12px;
@@ -99,3 +103,39 @@ font-size: 14px;
 }
 .signup-link{
  color: #5F0080;}
+
+.m-header-con{
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.brand{display: flex; gap: 20px;
+align-items: center;
+width: 250px;}
+.brand-tabs{display: flex; gap: 22px;
+font-size: 18px;
+color:#B5B5B5}
+.brand-tabs.active{
+    color: #5F0080;
+font-weight: 500;}
+
+.search{
+width: 400px; height: 48px;
+box-sizing: border-box;
+border: 1px solid #5F0080;
+border-radius: 7px;
+padding-left: 20px;
+padding-right: 20px;
+/* 태그 크기안에 padding과 선 크기 포함 */
+box-sizing: border-box;
+display: flex; align-items: center;
+font-size: 16px;
+color: #B5B5B5;}
+
+.icon{
+    width: 250px;
+    display: flex;
+    justify-content: flex-end;
+gap: 20px;
+}
