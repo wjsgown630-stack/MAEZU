@@ -1,0 +1,481 @@
+- generic [ref=f12e1]:
+  - generic [ref=f12e2]:
+    - link "Skip to content" [ref=f12e3] [cursor=pointer]:
+      - /url: main-content
+    - generic [ref=f12e4]:
+      - navigation "Nav bar" [ref=f12e5]:
+        - link "Fonts" [ref=f12e6] [cursor=pointer]:
+          - /url: /
+          - img [aria-hidden] [ref=f12e9]: font_download
+        - link "Noto" [ref=f12e11] [cursor=pointer]:
+          - /url: /noto
+          - img [aria-hidden] [ref=f12e14]: language
+        - link "Icons" [ref=f12e16] [cursor=pointer]:
+          - /url: /icons
+          - img [aria-hidden] [ref=f12e19]: interests
+        - link "Knowledge" [ref=f12e21] [cursor=pointer]:
+          - /url: /knowledge
+          - img [aria-hidden] [ref=f12e24]: school
+        - link "FAQ" [ref=f12e26] [cursor=pointer]:
+          - /url: /faq
+          - img [aria-hidden] [ref=f12e29]: help
+        - button "Switch to dark theme" [ref=f12e33] [cursor=pointer]:
+          - img [aria-hidden] [ref=f12e35]: dark_mode
+      - generic [ref=f12e38]:
+        - generic [ref=f12e41]:
+          - banner [ref=f12e44]:
+            - generic [ref=f12e45]:
+              - link "Google Fonts" [ref=f12e47] [cursor=pointer]:
+                - /url: https://fonts.google.com/?icon.query=favorite&selected=Material+Symbols+Outlined:favorite:FILL@0;wght@400;GRAD@0;opsz@24&icon.size=24&icon.color=%231f1f1f
+              - generic [ref=f12e59]:
+                - generic [ref=f12e65]:
+                  - img [aria-hidden] [ref=f12e307]: search
+                  - combobox "Search icons" [ref=f12e70]: favorite
+                  - button "Clear search" [ref=f12e72] [cursor=pointer]:
+                    - img [aria-hidden] [ref=f12e74]: close
+                - generic [ref=f12e79]:
+                  - button "View selected families" [disabled]:
+                    - generic [aria-hidden]:
+                      - img [aria-hidden]: shopping_bag
+            - button "Open Filters panel" [ref=f12e82]:
+              - generic [ref=f12e83]:
+                - img [aria-hidden] [ref=f12e85]: tune
+                - text: Filters
+          - generic [ref=f12e89]:
+            - main [ref=f12e90]:
+              - generic [ref=f12e94]:
+                - generic [ref=f12e97]:
+                  - generic [ref=f12e98]:
+                    - link "Material Design icon guidelines Learn about the latest best practices for icons" [ref=f12e100] [cursor=pointer]:
+                      - /url: https://m3.material.io/styles/icons/overview
+                      - generic [ref=f12e101]:
+                        - generic [ref=f12e102]:
+                          - generic [ref=f12e103]: Material Design icon guidelines
+                          - generic [ref=f12e104]: Learn about the latest best practices for icons
+                        - img [aria-hidden] [ref=f12e111]: material_design
+                    - link "Figma plugin Use the Material Symbols plugin on Figma" [ref=f12e113] [cursor=pointer]:
+                      - /url: https://www.figma.com/community/plugin/1088610476491668236/material-symbols
+                      - generic [ref=f12e115]:
+                        - generic [ref=f12e116]: Figma plugin
+                        - generic [ref=f12e117]: Use the Material Symbols plugin on Figma
+                    - link "GitHub repo This repository contains the binary font file served by Google Fonts" [ref=f12e128] [cursor=pointer]:
+                      - /url: https://github.com/google/material-design-icons
+                      - generic [ref=f12e129]:
+                        - generic [ref=f12e130]:
+                          - generic [ref=f12e131]: GitHub repo
+                          - generic [ref=f12e132]: This repository contains the binary font file served by Google Fonts
+                        - img [aria-hidden] [ref=f12e139]: arrow_outward
+                    - link "Apache license Material Symbols are available under the Apache License Version 2.0" [ref=f12e141] [cursor=pointer]:
+                      - /url: https://www.apache.org/licenses/LICENSE-2.0.html
+                      - generic [ref=f12e142]:
+                        - generic [ref=f12e143]:
+                          - generic [ref=f12e144]: Apache license
+                          - generic [ref=f12e145]: Material Symbols are available under the Apache License Version 2.0
+                        - img [aria-hidden] [ref=f12e152]: arrow_outward
+                    - link "Developer guide How to use Material Symbols in your projects" [ref=f12e154] [cursor=pointer]:
+                      - /url: https://developers.google.com/fonts/docs/material_symbols
+                      - generic [ref=f12e155]:
+                        - generic [ref=f12e156]:
+                          - generic [ref=f12e157]: Developer guide
+                          - generic [ref=f12e158]: How to use Material Symbols in your projects
+                        - img [aria-hidden] [ref=f12e165]: code
+                    - link "Download Material Symbols Get all Material Symbols in a single variable font file" [ref=f12e167] [cursor=pointer]:
+                      - /url: /download?family=Material Symbols Outlined|Material Symbols Rounded|Material Symbols Sharp
+                      - generic [ref=f12e168]:
+                        - generic [ref=f12e169]:
+                          - generic [ref=f12e170]: Download Material Symbols
+                          - generic [ref=f12e171]: Get all Material Symbols in a single variable font file
+                        - img [aria-hidden] [ref=f12e178]: download
+                  - button [aria-hidden] [ref=f12e179] [cursor=pointer]:
+                    - img [aria-hidden] [ref=f12e182]: arrow_forward_ios
+                - generic [ref=f12e308]:
+                  - heading "Find the icons for your project" [level=1] [ref=f12e185]
+                  - generic "Search results" [ref=f12e309]:
+                    - heading "Search results icons" [level=2] [ref=f12e310]: Search results
+                    - listbox "Search results icons" [ref=f12e311]:
+                      - button [disabled] [aria-hidden] [ref=f12e312] [cursor=pointer]:
+                        - generic [ref=f12e313]: favorite
+                        - generic [ref=f12e315]: Favorite
+                      - option "Favorite Icon" [selected] [ref=f12e317] [cursor=pointer]:
+                        - generic [ref=f12e318]: favorite
+                        - generic [ref=f12e320]: Favorite
+                      - option "Star Icon" [ref=f12e322] [cursor=pointer]:
+                        - generic [ref=f12e323]: star
+                        - generic [ref=f12e325]: Star
+                      - option "Thumb Up Icon" [ref=f12e327] [cursor=pointer]:
+                        - generic [ref=f12e328]: thumb_up
+                        - generic [ref=f12e330]: Thumb Up
+                      - option "Bookmark Icon" [ref=f12e332] [cursor=pointer]:
+                        - generic [ref=f12e333]: bookmark
+                        - generic [ref=f12e335]: Bookmark
+                      - option "Star Half Icon" [ref=f12e337] [cursor=pointer]:
+                        - generic [ref=f12e338]: star_half
+                        - generic [ref=f12e340]: Star Half
+                      - option "Stars Icon" [ref=f12e342] [cursor=pointer]:
+                        - generic [ref=f12e343]: stars
+                        - generic [ref=f12e345]: Stars
+                      - option "Thumb Down Icon" [ref=f12e347] [cursor=pointer]:
+                        - generic [ref=f12e348]: thumb_down
+                        - generic [ref=f12e350]: Thumb Down
+                      - option "Book Icon" [ref=f12e352] [cursor=pointer]:
+                        - generic [ref=f12e353]: book
+                        - generic [ref=f12e355]: Book
+                      - option "Label Icon" [ref=f12e357] [cursor=pointer]:
+                        - generic [ref=f12e358]: label
+                        - generic [ref=f12e360]: Label
+                      - option "Bookmarks Icon" [ref=f12e362] [cursor=pointer]:
+                        - generic [ref=f12e363]: bookmarks
+                        - generic [ref=f12e365]: Bookmarks
+                      - option "Recommend Icon" [ref=f12e367] [cursor=pointer]:
+                        - generic [ref=f12e368]: recommend
+                        - generic [ref=f12e370]: Recommend
+                      - option "Interests Icon" [ref=f12e372] [cursor=pointer]:
+                        - generic [ref=f12e373]: interests
+                        - generic [ref=f12e375]: Interests
+                      - option "Reviews Icon" [ref=f12e377] [cursor=pointer]:
+                        - generic [ref=f12e378]: reviews
+                        - generic [ref=f12e380]: Reviews
+                      - option "Collections Bookmark Icon" [ref=f12e382] [cursor=pointer]:
+                        - generic [ref=f12e383]: collections_bookmark
+                        - generic [ref=f12e385]: Collections Bookmark
+                      - option "Tag Icon" [ref=f12e387] [cursor=pointer]:
+                        - generic [ref=f12e388]: tag
+                        - generic [ref=f12e390]: Tag
+                      - option "Heart Plus Icon" [ref=f12e392] [cursor=pointer]:
+                        - generic [ref=f12e393]: heart_plus
+                        - generic [ref=f12e395]: Heart Plus
+                      - option "Hotel Class Icon" [ref=f12e397] [cursor=pointer]:
+                        - generic [ref=f12e398]: hotel_class
+                        - generic [ref=f12e400]: Hotel Class
+                      - option "Thumbs Up Down Icon" [ref=f12e402] [cursor=pointer]:
+                        - generic [ref=f12e403]: thumbs_up_down
+                        - generic [ref=f12e405]: Thumbs Up Down
+                      - option "Bookmark Add Icon" [ref=f12e407] [cursor=pointer]:
+                        - generic [ref=f12e408]: bookmark_add
+                        - generic [ref=f12e410]: Bookmark Add
+                      - option "Saved Search Icon" [ref=f12e412] [cursor=pointer]:
+                        - generic [ref=f12e413]: saved_search
+                        - generic [ref=f12e415]: Saved Search
+                      - option "Label Important Icon" [ref=f12e417] [cursor=pointer]:
+                        - generic [ref=f12e418]: label_important
+                        - generic [ref=f12e420]: Label Important
+                      - option "More Icon" [ref=f12e422] [cursor=pointer]:
+                        - generic [ref=f12e423]: more
+                        - generic [ref=f12e425]: More
+                      - option "Heart Broken Icon" [ref=f12e427] [cursor=pointer]:
+                        - generic [ref=f12e428]: heart_broken
+                        - generic [ref=f12e430]: Heart Broken
+                      - option "Bookmark Added Icon" [ref=f12e432] [cursor=pointer]:
+                        - generic [ref=f12e433]: bookmark_added
+                        - generic [ref=f12e435]: Bookmark Added
+                      - option "Star Rate Icon" [ref=f12e437] [cursor=pointer]:
+                        - generic [ref=f12e438]: star_rate
+                        - generic [ref=f12e440]: Star Rate
+                      - option "Beenhere Icon" [ref=f12e442] [cursor=pointer]:
+                        - generic [ref=f12e443]: beenhere
+                        - generic [ref=f12e445]: Beenhere
+                      - option "New Label Icon" [ref=f12e447] [cursor=pointer]:
+                        - generic [ref=f12e448]: new_label
+                        - generic [ref=f12e450]: New Label
+                      - option "Folder Special Icon" [ref=f12e452] [cursor=pointer]:
+                        - generic [ref=f12e453]: folder_special
+                        - generic [ref=f12e455]: Folder Special
+                      - option "Keep Icon" [ref=f12e457] [cursor=pointer]:
+                        - generic [ref=f12e458]: keep
+                        - generic [ref=f12e460]: Keep
+                      - option "Offline Pin Icon" [ref=f12e462] [cursor=pointer]:
+                        - generic [ref=f12e463]: offline_pin
+                        - generic [ref=f12e465]: Offline Pin
+                      - option "Heart Minus Icon" [ref=f12e467] [cursor=pointer]:
+                        - generic [ref=f12e468]: heart_minus
+                        - generic [ref=f12e470]: Heart Minus
+                      - option "Bookmark Remove Icon" [ref=f12e472] [cursor=pointer]:
+                        - generic [ref=f12e473]: bookmark_remove
+                        - generic [ref=f12e475]: Bookmark Remove
+                      - option "High Quality Icon" [ref=f12e477] [cursor=pointer]:
+                        - generic [ref=f12e478]: high_quality
+                        - generic [ref=f12e480]: High Quality
+                      - option "Award Star Icon" [ref=f12e482] [cursor=pointer]:
+                        - generic [ref=f12e483]: award_star
+                        - generic [ref=f12e485]: Award Star
+                      - option "Comment Bank Icon" [ref=f12e487] [cursor=pointer]:
+                        - generic [ref=f12e488]: comment_bank
+                        - generic [ref=f12e490]: Comment Bank
+                      - option "Star Shine Icon" [ref=f12e492] [cursor=pointer]:
+                        - generic [ref=f12e493]: star_shine
+                        - generic [ref=f12e495]: Star Shine
+                      - option "Label Off Icon" [ref=f12e497] [cursor=pointer]:
+                        - generic [ref=f12e498]: label_off
+                        - generic [ref=f12e500]: Label Off
+                      - option "Looks 6 Icon" [ref=f12e502] [cursor=pointer]:
+                        - generic [ref=f12e503]: looks_6
+                        - generic [ref=f12e505]: Looks 6
+                      - option "Book 2 Icon" [ref=f12e507] [cursor=pointer]:
+                        - generic [ref=f12e508]: book_2
+                        - generic [ref=f12e510]: Book 2
+                      - option "Heart Check Icon" [ref=f12e512] [cursor=pointer]:
+                        - generic [ref=f12e513]: heart_check
+                        - generic [ref=f12e515]: Heart Check
+                      - option "Book 5 Icon" [ref=f12e517] [cursor=pointer]:
+                        - generic [ref=f12e518]: book_5
+                        - generic [ref=f12e520]: Book 5
+                      - option "Kid Star Icon" [ref=f12e522] [cursor=pointer]:
+                        - generic [ref=f12e523]: kid_star
+                        - generic [ref=f12e525]: Kid Star
+                      - option "Cards Star Icon" [ref=f12e527] [cursor=pointer]:
+                        - generic [ref=f12e528]: cards_star
+                        - generic [ref=f12e530]: Cards Star
+                      - option "Star Rate Half Icon" [ref=f12e532] [cursor=pointer]:
+                        - generic [ref=f12e533]: star_rate_half
+                        - generic [ref=f12e535]: Star Rate Half
+                      - option "Book Ribbon Icon" [ref=f12e537] [cursor=pointer]:
+                        - generic [ref=f12e538]: book_ribbon
+                        - generic [ref=f12e540]: Book Ribbon
+                      - option "Stack Star Icon" [ref=f12e542] [cursor=pointer]:
+                        - generic [ref=f12e543]: stack_star
+                        - generic [ref=f12e545]: Stack Star
+                      - option "Book 4 Icon" [ref=f12e547] [cursor=pointer]:
+                        - generic [ref=f12e548]: book_4
+                        - generic [ref=f12e550]: Book 4
+                      - option "Family Star Icon" [ref=f12e552] [cursor=pointer]:
+                        - generic [ref=f12e553]: family_star
+                        - generic [ref=f12e555]: Family Star
+                      - option "Partner Heart Icon" [ref=f12e557] [cursor=pointer]:
+                        - generic [ref=f12e558]: partner_heart
+                        - generic [ref=f12e560]: Partner Heart
+                      - option "Person Heart Icon" [ref=f12e562] [cursor=pointer]:
+                        - generic [ref=f12e563]: person_heart
+                        - generic [ref=f12e565]: Person Heart
+                      - option "Thumbs Up Double Icon" [ref=f12e567] [cursor=pointer]:
+                        - generic [ref=f12e568]: thumbs_up_double
+                        - generic [ref=f12e570]: Thumbs Up Double
+                      - option "Settings Heart Icon" [ref=f12e572] [cursor=pointer]:
+                        - generic [ref=f12e573]: settings_heart
+                        - generic [ref=f12e575]: Settings Heart
+                      - option "Heart Smile Icon" [ref=f12e577] [cursor=pointer]:
+                        - generic [ref=f12e578]: heart_smile
+                        - generic [ref=f12e580]: Heart Smile
+                      - option "Bookmark Check Icon" [ref=f12e582] [cursor=pointer]:
+                        - generic [ref=f12e583]: bookmark_check
+                        - generic [ref=f12e585]: Bookmark Check
+                      - option "Cardio Load Icon" [ref=f12e587] [cursor=pointer]:
+                        - generic [ref=f12e588]: cardio_load
+                        - generic [ref=f12e590]: Cardio Load
+                      - option "Bookmark Star Icon" [ref=f12e592] [cursor=pointer]:
+                        - generic [ref=f12e593]: bookmark_star
+                        - generic [ref=f12e595]: Bookmark Star
+                      - option "Stars 2 Icon" [ref=f12e597] [cursor=pointer]:
+                        - generic [ref=f12e598]: stars_2
+                        - generic [ref=f12e600]: Stars 2
+                      - option "Mood Heart Icon" [ref=f12e602] [cursor=pointer]:
+                        - generic [ref=f12e603]: mood_heart
+                        - generic [ref=f12e605]: Mood Heart
+                      - option "Credit Card Heart Icon" [ref=f12e607] [cursor=pointer]:
+                        - generic [ref=f12e608]: credit_card_heart
+                        - generic [ref=f12e610]: Credit Card Heart
+                      - option "Bookmark Flag Icon" [ref=f12e612] [cursor=pointer]:
+                        - generic [ref=f12e613]: bookmark_flag
+                        - generic [ref=f12e615]: Bookmark Flag
+                      - option "Map Pin Heart Icon" [ref=f12e617] [cursor=pointer]:
+                        - generic [ref=f12e618]: map_pin_heart
+                        - generic [ref=f12e620]: Map Pin Heart
+                      - option "Bookmark Manager Icon" [ref=f12e622] [cursor=pointer]:
+                        - generic [ref=f12e623]: bookmark_manager
+                        - generic [ref=f12e625]: Bookmark Manager
+                      - option "Bookmark Heart Icon" [ref=f12e627] [cursor=pointer]:
+                        - generic [ref=f12e628]: bookmark_heart
+                        - generic [ref=f12e630]: Bookmark Heart
+                      - option "Bookmark Stacks Icon" [ref=f12e632] [cursor=pointer]:
+                        - generic [ref=f12e633]: bookmark_stacks
+                        - generic [ref=f12e635]: Bookmark Stacks
+                      - option "Book 3 Icon" [ref=f12e637] [cursor=pointer]:
+                        - generic [ref=f12e638]: book_3
+                        - generic [ref=f12e640]: Book 3
+                      - option "Device Swoosh Star Icon" [ref=f12e642] [cursor=pointer]:
+                        - generic [ref=f12e643]: device_swoosh_star
+                        - generic [ref=f12e645]: Device Swoosh Star
+                      - option "Map Pin Review Icon" [ref=f12e647] [cursor=pointer]:
+                        - generic [ref=f12e648]: map_pin_review
+                        - generic [ref=f12e650]: Map Pin Review
+                      - option "Book 6 Icon" [ref=f12e652] [cursor=pointer]:
+                        - generic [ref=f12e653]: book_6
+                        - generic [ref=f12e655]: Book 6
+                      - option "Dine Heart Icon" [ref=f12e657] [cursor=pointer]:
+                        - generic [ref=f12e658]: dine_heart
+                        - generic [ref=f12e660]: Dine Heart
+                      - option "Bookmark Bag Icon" [ref=f12e662] [cursor=pointer]:
+                        - generic [ref=f12e663]: bookmark_bag
+                        - generic [ref=f12e665]: Bookmark Bag
+                      - option "Special Character Icon" [ref=f12e667] [cursor=pointer]:
+                        - generic [ref=f12e668]: special_character
+                        - generic [ref=f12e670]: Special Character
+                      - option "Pin Icon" [ref=f12e672] [cursor=pointer]:
+                        - generic [ref=f12e673]: pin
+                        - generic [ref=f12e675]: Pin
+                      - option "Personal Places Icon" [ref=f12e677] [cursor=pointer]:
+                        - generic [ref=f12e678]: personal_places
+                        - generic [ref=f12e680]: Personal Places
+            - contentinfo [ref=f12e188]:
+              - generic [ref=f12e189]:
+                - generic [ref=f12e190]:
+                  - generic "Google Fonts" [ref=f12e191]
+                  - generic [ref=f12e195]: Google Fonts makes it easy to bring personality and performance to your websites and products. Our robust catalog of open-source fonts and icons makes it easy to integrate expressive type and icons seamlessly — no matter where you are in the world.
+                - generic [ref=f12e198]:
+                  - list [ref=f12e199]:
+                    - listitem [ref=f12e200]:
+                      - link [ref=f12e202] [cursor=pointer]:
+                        - /url: /about
+                        - generic [ref=f12e218]:
+                          - paragraph [ref=f12e219]: About us
+                          - paragraph [ref=f12e220]: Making the web more beautiful, fast, and open through great typography & icons
+                    - listitem [ref=f12e221]:
+                      - link [ref=f12e223] [cursor=pointer]:
+                        - /url: https://github.com/google/fonts
+                        - generic [ref=f12e231]:
+                          - paragraph [ref=f12e232]: Fonts GitHub
+                          - paragraph [ref=f12e233]: This repository contains the binary font files served by Google Fonts
+                    - listitem [ref=f12e234]:
+                      - link [ref=f12e236] [cursor=pointer]:
+                        - /url: https://github.com/google/material-design-icons
+                        - generic [ref=f12e244]:
+                          - paragraph [ref=f12e245]: Icons GitHub
+                          - paragraph [ref=f12e246]: This repository contains the binary font files served by Google Icons
+                  - list [ref=f12e247]:
+                    - listitem [ref=f12e248]:
+                      - link [ref=f12e250] [cursor=pointer]:
+                        - /url: https://fonts.googleblog.com/
+                        - generic [ref=f12e256]:
+                          - paragraph [ref=f12e257]: Fonts blog
+                          - paragraph [ref=f12e258]: This blog has stories about how different fonts were designed for various languages and scripts
+                    - listitem [ref=f12e259]:
+                      - link [ref=f12e261] [cursor=pointer]:
+                        - /url: https://m3.material.io/styles/typography/overview
+                        - generic [ref=f12e269]:
+                          - paragraph [ref=f12e270]: Material Design
+                          - paragraph [ref=f12e271]: A cross-platform design system for creating high-quality digital experiences
+                    - listitem [ref=f12e272]:
+                      - link [ref=f12e274] [cursor=pointer]:
+                        - /url: https://design.google/tags/typography
+                        - generic [ref=f12e280]:
+                          - paragraph [ref=f12e281]: Google Design
+                          - paragraph [ref=f12e282]: Google Design highlights the breadth and craft of design and fonts from speculation, to work-in-progress, to finished product
+              - generic [ref=f12e295]:
+                - link "Privacy" [ref=f12e296] [cursor=pointer]:
+                  - /url: https://policies.google.com/privacy?hl=en
+                - link "Terms of service" [ref=f12e297] [cursor=pointer]:
+                  - /url: https://policies.google.com/terms?hl=en
+            - button "Leave feedback" [ref=f12e298] [cursor=pointer]:
+              - img [aria-hidden] [ref=f12e300]: feedback
+        - dialog [ref=f12e681]:
+          - generic [ref=f12e685]:
+            - generic [ref=f12e687]:
+              - button "Share a direct link to the selected icons" [active] [ref=f12e689] [cursor=pointer]:
+                - img [aria-hidden] [ref=f12e691]: share
+              - button "close side panel" [ref=f12e694] [cursor=pointer]:
+                - img [aria-hidden] [ref=f12e696]: close
+            - generic [ref=f12e699]:
+              - generic [ref=f12e700]:
+                - heading "Favorite Icon" [level=3] [ref=f12e701]: Favorite
+                - button "Reset color and size" [disabled]:
+                  - generic [aria-hidden]:
+                    - img [aria-hidden]: refresh
+              - generic [ref=f12e702]:
+                - button "Copy icon to clipboard" [ref=f12e705] [cursor=pointer]:
+                  - img [aria-hidden] [ref=f12e707]: content_copy
+                - generic [ref=f12e710]:
+                  - generic [ref=f12e711]:
+                    - text: Size
+                    - generic [ref=f12e712]:
+                      - button "Decrease icon size" [ref=f12e713] [cursor=pointer]:
+                        - img [aria-hidden] [ref=f12e715]: remove
+                      - spinbutton "Icon size value" [ref=f12e718]: "24"
+                      - button "Increase icon size" [ref=f12e719] [cursor=pointer]:
+                        - img [aria-hidden] [ref=f12e721]: add
+                  - generic [ref=f12e724]:
+                    - text: Color
+                    - generic [ref=f12e725]:
+                      - button "Open color picker" [ref=f12e727] [cursor=pointer]:
+                        - img [aria-hidden] [ref=f12e729]: colors
+                      - textbox "Hexadecimal color value" [ref=f12e732]: "#1f1f1f"
+              - paragraph [ref=f12e734]: Appreciate, favorite, heart, like, love, remember, save, shape
+              - generic [ref=f12e735]:
+                - button "Download asset in SVG format for this icon" [ref=f12e736]:
+                  - generic [ref=f12e738]:
+                    - img [aria-hidden] [ref=f12e740]: file_download
+                    - text: SVG
+                - button "Download asset in PNG format for this icon" [ref=f12e743]:
+                  - generic [ref=f12e745]:
+                    - img [aria-hidden] [ref=f12e747]: file_download
+                    - text: PNG
+            - generic "icon platform" [ref=f12e752]:
+              - tablist "icon platform" [ref=f12e755]:
+                - generic [ref=f12e756]:
+                  - tab "Web" [selected] [ref=f12e757] [cursor=pointer]
+                  - tab "Android" [ref=f12e761] [cursor=pointer]
+                  - tab "Apple" [ref=f12e765] [cursor=pointer]
+              - generic [ref=f12e769]:
+                - tabpanel "Web" [ref=f12e770]:
+                  - generic [ref=f12e771]:
+                    - separator [ref=f12e772]
+                    - generic [ref=f12e775]:
+                      - figure [ref=f12e776]:
+                        - generic [ref=f12e777]:
+                          - heading "Instructions" [level=3] [ref=f12e778]
+                          - paragraph [ref=f12e779]:
+                            - text: Check the
+                            - link "Material Symbols guide" [ref=f12e780] [cursor=pointer]:
+                              - /url: https://developers.google.com/fonts/docs/material_symbols
+                            - text: for advanced examples such as animations and font loading optimization.
+                      - figure [ref=f12e781]:
+                        - generic [ref=f12e782]:
+                          - heading "Variable icon font" [level=3] [ref=f12e783]
+                          - paragraph [ref=f12e784]: Add the variable font stylesheet request to your head tag and the current variable axes configuration to icons using CSS.
+                        - generic [ref=f12e787]:
+                          - generic [ref=f12e788]: <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=favorite" />
+                          - button "Copy code for Variable icon font to clipboard, 1 of 2" [ref=f12e792]:
+                            - generic [ref=f12e793]:
+                              - img [aria-hidden] [ref=f12e795]: content_copy
+                              - text: Copy code
+                        - generic [ref=f12e800]:
+                          - generic [ref=f12e801]: "<style> .material-symbols-outlined { font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24 } </style>"
+                          - button "Copy code for Variable icon font to clipboard, 2 of 2" [ref=f12e805]:
+                            - generic [ref=f12e806]:
+                              - img [aria-hidden] [ref=f12e808]: content_copy
+                              - text: Copy code
+                      - figure [ref=f12e811]:
+                        - generic [ref=f12e812]:
+                          - heading "Static icon font" [level=3] [ref=f12e813]
+                          - paragraph [ref=f12e814]: Alternatively, the current configuration can be loaded as a static font instead of a variable one.
+                        - generic [ref=f12e817]:
+                          - generic [ref=f12e818]: <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=favorite" />
+                          - button "Copy code for Static icon font to clipboard" [ref=f12e822]:
+                            - generic [ref=f12e823]:
+                              - img [aria-hidden] [ref=f12e825]: content_copy
+                              - text: Copy code
+                      - figure [ref=f12e828]:
+                        - heading "Inserting the icon" [level=3] [ref=f12e830]
+                        - generic [ref=f12e833]:
+                          - generic [ref=f12e834]: <span class="material-symbols-outlined"> favorite </span>
+                          - button "Copy code for Inserting the icon to clipboard" [ref=f12e838]:
+                            - generic [ref=f12e839]:
+                              - img [aria-hidden] [ref=f12e841]: content_copy
+                              - text: Copy code
+                      - figure [ref=f12e844]:
+                        - heading "Code point" [level=3] [ref=f12e846]
+                        - generic [ref=f12e849]:
+                          - generic [ref=f12e850]: e87d
+                          - button "Copy code for Code point to clipboard" [ref=f12e854]:
+                            - generic [ref=f12e855]:
+                              - img [aria-hidden] [ref=f12e857]: content_copy
+                              - text: Copy code
+                      - figure [ref=f12e860]:
+                        - heading "Icon name" [level=3] [ref=f12e862]
+                        - generic [ref=f12e865]:
+                          - generic [ref=f12e866]: favorite
+                          - button "Copy code for Icon name to clipboard" [ref=f12e870]:
+                            - generic [ref=f12e871]:
+                              - img [aria-hidden] [ref=f12e873]: content_copy
+                              - text: Copy code
+                - tabpanel [aria-hidden] [ref=f12e876]
+                - tabpanel [aria-hidden] [ref=f12e877]
+  - generic [ref=f12e305]: Material Symbols & Icons - Google Fonts
