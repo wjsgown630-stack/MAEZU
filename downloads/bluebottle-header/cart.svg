@@ -1,0 +1,22 @@
+<svg width="16" height="18" viewBox="0 0 16 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon icon-cart" style="fill: none; stroke: none;">
+            <g id="cart icon" style="fill: none; stroke: none;">
+            <g id="Group" style="fill: none; stroke: none;">
+            <mask id="mask0_152_12878" style="mask-type: alpha; fill: none; stroke: none;" maskUnits="userSpaceOnUse" x="0" y="7" width="16" height="11">
+            <g id="b" style="fill: none; stroke: none;">
+            <path id="Vector" d="M1.6 7.22559L3.2 15.6321H12.8L14.4 7.22559H16V17.3134H0V7.22559H1.6Z" fill="black" style="fill: rgb(0, 0, 0); stroke: none;"></path>
+            </g>
+            </mask>
+            <g mask="url(#mask0_152_12878)" style="fill: none; stroke: none;">
+            <path id="Vector_2" d="M0.944336 8.06641L2.27794 16.4729H13.7228L15.0564 8.06641H0.944336Z" stroke="white" stroke-width="1.6" style="fill: none; stroke: rgb(51, 51, 51);"></path>
+            </g>
+            </g>
+            <mask id="mask1_152_12878" style="mask-type: alpha; fill: none; stroke: none;" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="6">
+            <g id="d" style="fill: none; stroke: none;">
+            <path id="Vector_3" d="M0 0.5H16V5.54393H0V0.5Z" fill="black" style="fill: rgb(0, 0, 0); stroke: none;"></path>
+            </g>
+            </mask>
+            <g mask="url(#mask1_152_12878)" style="fill: none; stroke: none;">
+            <path id="Vector_4" d="M8 9.74738C10.2091 9.74738 12 7.86551 12 5.5441C12 3.22269 10.2091 1.34082 8 1.34082C5.79086 1.34082 4 3.22269 4 5.5441C4 7.86551 5.79086 9.74738 8 9.74738Z" stroke="white" stroke-width="1.6" style="fill: none; stroke: rgb(51, 51, 51);"></path>
+            </g>
+            </g>
+        </svg>
