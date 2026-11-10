@@ -1,0 +1,285 @@
+- generic [active] [ref=e1]:
+  - link "콘텐츠로 건너뛰기" [ref=e2] [cursor=pointer]:
+    - /url: "#MainContent"
+  - generic [ref=e6]:
+    - group "1 / 3" [ref=e7]:
+      - link "5만원 이상 구매 시 홀리데이 기프트 백 증정 (11/2-30)" [ref=e8] [cursor=pointer]:
+        - /url: /collections/2026-bluebottle-holiday-collection
+        - paragraph [ref=e10]:
+          - generic [ref=e11]: 5만원 이상 구매 시 홀리데이 기프트 백 증정 (11/2-30)
+    - group "2 / 3" [ref=e12]:
+      - link "원두 및 커피 최대 10% 할인 번들 구매 혜택" [ref=e13] [cursor=pointer]:
+        - /url: https://kr.bluebottlecoffee.com/apps/gbb/easybundle/1
+        - paragraph [ref=e15]:
+          - generic [ref=e16]: 원두 및 커피 최대 10% 할인 번들 구매 혜택
+    - group "3 / 3" [ref=e17]:
+      - link "35,000원 이상 구매 시 무료 배송 (제주도 별도)" [ref=e18] [cursor=pointer]:
+        - /url: /collections/bestsellers
+        - paragraph [ref=e20]:
+          - generic [ref=e21]: 35,000원 이상 구매 시 무료 배송 (제주도 별도)
+  - banner [ref=e24]:
+    - group [ref=e26]:
+      - button "메뉴" [ref=e27]:
+        - list [ref=e28]:
+          - listitem [ref=e29] [cursor=pointer]: 쇼핑
+          - listitem [ref=e30] [cursor=pointer]:
+            - link "홀리데이" [ref=e31]:
+              - /url: /collections/2026-bluebottle-holiday-collection
+          - listitem [ref=e32] [cursor=pointer]:
+            - link "베스트셀러" [ref=e33]:
+              - /url: /collections/bestsellers
+          - listitem [ref=e34] [cursor=pointer]:
+            - link "카페" [ref=e35]:
+              - /url: /pages/cafe-list
+          - listitem [ref=e36] [cursor=pointer]:
+            - link "블로그" [ref=e37]:
+              - /url: /pages/coffee-lab
+    - heading [level=1] [ref=e38]:
+      - link [ref=e39] [cursor=pointer]:
+        - /url: /
+    - generic [ref=e43]:
+      - group [ref=e45]:
+        - button "검색" [ref=e46] [cursor=pointer]
+      - group [ref=e52]:
+        - button "검색" [ref=e53] [cursor=pointer]
+      - link "카트" [ref=e59] [cursor=pointer]:
+        - /url: /cart
+  - main [ref=e68]:
+    - generic [ref=e72]:
+      - generic [ref=e73]:
+        - group "1 / 3" [ref=e74]:
+          - generic [ref=e76]:
+            - img "2026 홀리데이 원두" [ref=e80]
+            - generic [ref=e81]:
+              - generic [ref=e82]: 2026 홀리데이 원두
+              - generic [ref=e83]: 겨울의 풍미를 담은 세 가지 커피
+              - generic [ref=e84]:
+                - link "컬렉션 보기" [ref=e85] [cursor=pointer]:
+                  - /url: /collections/2026-bluebottle-holiday-collection
+                - link "번들 혜택 받기" [ref=e86] [cursor=pointer]:
+                  - /url: https://kr.bluebottlecoffee.com/apps/gbb/easybundle/1
+        - group "2 / 3":
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "2026 홀리데이 컬렉션"
+              - generic:
+                - generic: 2026 홀리데이 컬렉션
+                - generic: 커피 한 잔으로 전하는 따뜻한 환대의 마음
+                - generic:
+                  - link "자세히 보기":
+                    - /url: /collections/2026-bluebottle-holiday-collection
+        - group "3 / 3":
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "베스트셀러"
+              - generic:
+                - generic: 베스트셀러
+                - generic: 꾸준히 사랑 받아온 아이템을 만나보세요
+                - generic:
+                  - link "자세히 보기":
+                    - /url: /collections/bestsellers
+      - generic:
+        - button "Previous slide" [ref=e87] [cursor=pointer]
+        - button "Next slide" [ref=e90] [cursor=pointer]
+      - generic [ref=e93]:
+        - generic [ref=e94] [cursor=pointer]: "01"
+        - generic [ref=e95] [cursor=pointer]: "02"
+        - generic [ref=e96] [cursor=pointer]: "03"
+    - generic [ref=e100]:
+      - generic [ref=e101]:
+        - group "1 / 6" [ref=e102]:
+          - link [ref=e105] [cursor=pointer]:
+            - /url: /products/bella-donovan
+            - generic [ref=e106]:
+              - strong [ref=e107]: 벨라 도노반
+              - paragraph [ref=e108]: 블루보틀 시그니처 블렌드
+            - img "벨라 도노반" [ref=e110]
+        - group "2 / 6" [ref=e111]:
+          - link [ref=e114] [cursor=pointer]:
+            - /url: /products/2026-blue-bottle-coffee-holiday-mug
+            - generic [ref=e115]:
+              - strong [ref=e116]: 홀리데이 머그
+              - paragraph [ref=e117]: 마츠 그린 컬러가 더해진 시즌 머그
+            - img "홀리데이 머그" [ref=e119]
+        - group "3 / 6" [ref=e120]:
+          - link [ref=e123] [cursor=pointer]:
+            - /url: /products/2026-blue-bottle-coffee-holiday-carter-move-mug
+            - generic [ref=e124]:
+              - strong [ref=e125]: 카터 무브 머그
+              - paragraph [ref=e126]: 겨울빛을 머금은 스모크 그린 텀블러
+            - img "카터 무브 머그" [ref=e128]
+        - group "4 / 6" [ref=e129]:
+          - link [ref=e132] [cursor=pointer]:
+            - /url: /products/craft-instant-coffee-espresso-66g
+            - generic [ref=e133]:
+              - strong [ref=e134]: 크래프트 인스턴트 커피
+              - paragraph [ref=e135]: 스푼 하나로 즐기는 카페 퀄리티의 커피
+            - img "크래프트 인스턴트 커피" [ref=e137]
+        - group "5 / 6" [ref=e138]:
+          - link [ref=e141] [cursor=pointer]:
+            - /url: /products/day-off-tumbler
+            - generic [ref=e142]:
+              - strong [ref=e143]: 데이오프 텀블러
+              - paragraph [ref=e144]: 미니멀한 디자인과 실용적인 기능
+            - img "데이오프 텀블러" [ref=e146]
+        - group "6 / 6" [ref=e147]:
+          - link [ref=e150] [cursor=pointer]:
+            - /url: /products/essentialist-mug-300ml
+            - generic [ref=e151]:
+              - strong [ref=e152]: 에센셜리스트 머그
+              - paragraph [ref=e153]: 유니크한 디자인의 아이코닉 머그
+            - img "에센셜리스트 머그" [ref=e155]
+      - button "Next slide" [ref=e156] [cursor=pointer]
+    - generic [ref=e164]:
+      - generic [ref=e165]:
+        - heading "RITUALS OF WELCOME" [level=2] [ref=e166]
+        - paragraph [ref=e167]: 홀리데이 시즌을 맞아 블루보틀과 함께 소중한 선물을 준비해보세요
+      - generic [ref=e168]:
+        - link "선물 세트 보기" [ref=e169] [cursor=pointer]:
+          - /url: /collections/gift-set
+        - link "선물 추천 받기" [ref=e170] [cursor=pointer]:
+          - /url: https://kr.bluebottlecoffee.com/pages/2026-holiday-gift-finder
+    - generic [ref=e178]:
+      - heading "온라인 스토어 단독 푸어 오버 키트를 만나보세요" [level=2] [ref=e180]
+      - generic [ref=e182]:
+        - generic [ref=e184]:
+          - heading "커피 드리퍼" [level=2] [ref=e185]
+          - paragraph [ref=e187]: 최상의 푸어 오버를 위해 탄생한 정교한 디자인과 기능
+        - generic [ref=e189]:
+          - heading "커피 카라페" [level=2] [ref=e190]
+          - paragraph [ref=e192]: 드리퍼와 함께 편리하게 사용할 수 있는 디자인과 사이즈
+        - generic [ref=e194]:
+          - heading "커피 필터" [level=2] [ref=e195]
+          - paragraph [ref=e197]: 블루보틀의 노하우를 담은 독창적 디자인의 필터
+      - link "푸어 오버 키트 보기" [ref=e198] [cursor=pointer]:
+        - /url: /products/blue-bottle-pour-over-kit
+    - generic [ref=e206]:
+      - heading "소중한 분들을 위한 선물 세트를 만나보세요" [level=2] [ref=e208]
+      - generic [ref=e209]:
+        - generic [ref=e211]:
+          - heading "브렉퍼스트 세트" [level=2] [ref=e212]
+          - paragraph [ref=e214]: 아침을 위한 테이블웨어 세트
+        - generic [ref=e216]:
+          - heading "앳 홈 클래식 세트" [level=2] [ref=e217]
+          - paragraph [ref=e219]: 매일의 커피 리추얼을 위한 세트
+        - generic [ref=e221]:
+          - heading "더블월 써모 글라스 세트" [level=2] [ref=e222]
+          - paragraph [ref=e224]: 아이스 음료를 위한 유리잔 세트
+      - link "선물 세트 보기" [ref=e225] [cursor=pointer]:
+        - /url: /collections/gift-set
+    - generic [ref=e227]:
+      - generic [ref=e229]:
+        - generic [ref=e230]:
+          - group "1 / 3" [ref=e231]:
+            - generic [ref=e232]: 블루보틀 대구 신세계 팝업 카페
+          - group "2 / 3" [ref=e236]:
+            - generic [ref=e237]: 블루보틀 원그로브 카페
+          - group "3 / 3" [ref=e241]:
+            - generic [ref=e242]: 블루보틀 삼청 한옥
+        - button "Next slide" [ref=e246] [cursor=pointer]
+        - generic [ref=e249]:
+          - generic [ref=e250] [cursor=pointer]: "01"
+          - generic [ref=e251] [cursor=pointer]: "02"
+          - generic [ref=e252] [cursor=pointer]: "03"
+      - generic [ref=e253]:
+        - heading "가까운 블루보틀 카페를 확인해보세요" [level=2] [ref=e254]
+        - link "카페 찾기" [ref=e256] [cursor=pointer]:
+          - /url: /pages/cafe-list
+  - contentinfo [ref=e258]:
+    - generic [ref=e259]:
+      - generic [ref=e260]:
+        - generic [ref=e261]:
+          - heading "블루보틀 커피" [level=2] [ref=e262]
+          - list [ref=e263]:
+            - listitem [ref=e264]:
+              - link "카페 찾기" [ref=e265] [cursor=pointer]:
+                - /url: /pages/cafe-list
+            - listitem [ref=e266]:
+              - link "커리어" [ref=e267] [cursor=pointer]:
+                - /url: https://jobs.lever.co/bluebottlecoffee?location=Korea
+        - generic [ref=e268]:
+          - heading "알아보기" [level=2] [ref=e269]
+          - list [ref=e270]:
+            - listitem [ref=e271]:
+              - link "브랜드 소개" [ref=e272] [cursor=pointer]:
+                - /url: /pages/about-us
+            - listitem [ref=e273]:
+              - link "블루보틀 커피" [ref=e274] [cursor=pointer]:
+                - /url: /pages/our-coffee
+            - listitem [ref=e275]:
+              - link "지속가능성" [ref=e276] [cursor=pointer]:
+                - /url: /pages/blue-bottle-sustainability
+            - listitem [ref=e277]:
+              - link "브루잉 가이드" [ref=e278] [cursor=pointer]:
+                - /url: /pages/brew-guides
+            - listitem [ref=e279]:
+              - link "블로그" [ref=e280] [cursor=pointer]:
+                - /url: /pages/blog-landing
+        - generic [ref=e281]:
+          - heading "문의" [level=2] [ref=e282]
+          - list [ref=e283]:
+            - listitem [ref=e284]:
+              - link "고객 문의" [ref=e285] [cursor=pointer]:
+                - /url: /pages/contact
+            - listitem [ref=e286]:
+              - link "단체/기업 구매 문의" [ref=e287] [cursor=pointer]:
+                - /url: /pages/b2b-contact
+            - listitem [ref=e288]:
+              - link "자주 묻는 질문" [ref=e289] [cursor=pointer]:
+                - /url: /pages/faq
+      - generic [ref=e291]:
+        - generic [ref=e292]:
+          - heading "구독하고 최신 정보를 받아보세요." [level=2] [ref=e293]
+          - heading [level=2] [ref=e294]:
+            - paragraph [ref=e295]: 이메일 뉴스레터에 가입하여 독점 혜택, 블루보틀 뉴스, 이벤트, 그리고 기분 좋은 신제품 소식을 누구보다 먼저 알아보세요.
+          - generic [ref=e298]:
+            - textbox "이메일 주소를 입력해 주세요." [ref=e299]
+            - button "가입하기" [ref=e300] [cursor=pointer]
+          - generic [ref=e303]:
+            - link "개인정보 처리 방침" [ref=e304] [cursor=pointer]:
+              - /url: /policies/privacy-policy
+            - text: 및
+            - link "이용 약관" [ref=e305] [cursor=pointer]:
+              - /url: /policies/terms-of-service
+        - list [ref=e306]:
+          - listitem [ref=e307]:
+            - link "Facebook" [ref=e308] [cursor=pointer]:
+              - /url: https://www.facebook.com/bluebottlecoffee
+          - listitem [ref=e312]:
+            - link "X(Twitter)" [ref=e313] [cursor=pointer]:
+              - /url: https://x.com/bluebottleroast
+          - listitem [ref=e317]:
+            - link "Instagram" [ref=e318] [cursor=pointer]:
+              - /url: https://www.instagram.com/bluebottlekorea/
+          - listitem [ref=e322]:
+            - link "YouTube" [ref=e323] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCyki4e6RG84BT_xzi4oYkRw
+          - listitem [ref=e327]:
+            - 'link "Translation missing: ko.general.social.kakao.vimeo" [ref=e328] [cursor=pointer]':
+              - /url: http://pf.kakao.com/_yShcxj
+      - generic [ref=e360]:
+        - generic [ref=e361]: "상호: 블루보틀커피코리아 유한회사 I 대표자: ERIK WILLY JENKINS(에릭윌리젠킨스) I 개인정보관리책임자: ERIK WILLY JENKINS"
+        - generic [ref=e362]:
+          - text: "사업자등록번호: 155-81-01195 I"
+          - link "사업정보확인" [ref=e363] [cursor=pointer]:
+            - /url: https://www.ftc.go.kr/bizCommPop.do?wrkr_no=1558101195
+          - text: "I 통신판매업신고: 2023-서울성동-0715 I 대표번호: 1533-6906"
+        - generic [ref=e364]: "이메일: support_kr@bluebottlecoffee.com I 주소: 서울특별시 성동구 아차산로 7(성수동 1가) I 호스팅서비스 제공자: Shopify, Inc."
+    - generic [ref=e367]:
+      - list [ref=e368]:
+        - listitem [ref=e369]:
+          - link "개인정보 처리방침" [ref=e371] [cursor=pointer]:
+            - /url: /policies/privacy-policy
+        - listitem [ref=e372]:
+          - link "판매이용약관" [ref=e374] [cursor=pointer]:
+            - /url: /policies/terms-of-service
+        - listitem [ref=e375]:
+          - link "환불 정책" [ref=e377] [cursor=pointer]:
+            - /url: /policies/refund-policy
+      - generic [ref=e378]: © 2023 BLUE BOTTLE COFFEE INC., ALL RIGHTS RESERVED

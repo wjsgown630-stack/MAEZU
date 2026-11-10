@@ -1,0 +1,14 @@
+[    5873ms] [ERROR] Executing inline event handler violates the following Content Security Policy directive 'script-src 'nonce-ij4byMSN7Ukew-arPuXecg' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:'. Note that 'unsafe-inline' is ignored if either a hash or nonce value is present in the source list. The action has been blocked. @ https://www.google.com/search?q=%EB%B8%94%EB%A3%A8%EB%B3%B4%ED%8B%80&oq=%EB%B8%94%EB%A3%A8%EB%B3%B4%ED%8B%80&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDINCAIQLhjHARjRAxiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg90gEIMjYzMmowajKoAgCwAgE&sourceid=chrome&ie=UTF-8&sei=MEnzaqmhI7vf2roPscqZiQ4:1
+[    7451ms] [LOG] swiper-pagination-bullet @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[    7451ms] [LOG] index 0 @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[    7451ms] [LOG] swiper-pagination-bullet @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[    7451ms] [LOG] index 1 @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[    7451ms] [LOG] swiper-pagination-bullet @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[    7451ms] [LOG] index 2 @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[    7452ms] [LOG] {loop: true} @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[    7687ms] [LOG] bootstap @ https://cdn.shopify.com/extensions/01a1ac05-1cb1-7a7e-a63c-8fdf8c5dad8b/gift-box-builder-1-514/assets/easy-bundle-min.js:1
+[    7691ms] [LOG] ChannelIO script loaded with plugin key: 4a7023e0-203e-430b-bd7e-cf76617bfc5d @ https://kr.bluebottlecoffee.com/?srsltid=AYCX9vJNQM9HYj3e5agNVq-BTK3rysvee4Ed6-iLh0TbmTzXsWK0HJTU:4815
+[    8039ms] [WARNING] In a sandboxed environment, addEventListener may not behave as expected. @ https://kr.bluebottlecoffee.com/cdn/wpm/sf59a8868w8ba6d0d6p6ab5e8acm046c7fc6m.js:1
+[    8107ms] [WARNING] In a sandboxed environment, addEventListener may not behave as expected. @ https://kr.bluebottlecoffee.com/cdn/wpm/sf59a8868w8ba6d0d6p6ab5e8acm046c7fc6m.js:1
+[    9412ms] [INFO] pageView @ https://kr.bluebottlecoffee.com/web-pixels@f59a8868w8ba6d0d6p6ab5e8acm046c7fc6/custom/web-pixel-36733181@2/sandbox/modern/?srsltid=AYCX9vJNQM9HYj3e5agNVq-BTK3rysvee4Ed6-iLh0TbmTzXsWK0HJTU:25
+[    9421ms] [INFO] pageView naver @ https://kr.bluebottlecoffee.com/web-pixels@f59a8868w8ba6d0d6p6ab5e8acm046c7fc6/custom/web-pixel-38568189@25/sandbox/modern/?srsltid=AYCX9vJNQM9HYj3e5agNVq-BTK3rysvee4Ed6-iLh0TbmTzXsWK0HJTU:33

@@ -1,0 +1,35 @@
+[     956ms] [LOG] swiper-pagination-bullet @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[     956ms] [LOG] index 0 @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[     956ms] [LOG] swiper-pagination-bullet @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[     956ms] [LOG] index 1 @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[     956ms] [LOG] swiper-pagination-bullet @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[     956ms] [LOG] index 2 @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[     957ms] [LOG] {loop: true} @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[    1070ms] [LOG] Gift Box Builder @ https://cdn.shopify.com/extensions/01a1ac05-1cb1-7a7e-a63c-8fdf8c5dad8b/gift-box-builder-1-514/assets/easy-bundle-min.js:35
+[    1072ms] [LOG] bootstap @ https://cdn.shopify.com/extensions/01a1ac05-1cb1-7a7e-a63c-8fdf8c5dad8b/gift-box-builder-1-514/assets/easy-bundle-min.js:1
+[    1131ms] [LOG] ChannelIO script loaded with plugin key: 4a7023e0-203e-430b-bd7e-cf76617bfc5d @ https://kr.bluebottlecoffee.com/:4815
+[    1471ms] [WARNING] In a sandboxed environment, addEventListener may not behave as expected. @ https://kr.bluebottlecoffee.com/cdn/wpm/sf59a8868w8ba6d0d6p6ab5e8acm046c7fc6m.js:1
+[    1671ms] [WARNING] In a sandboxed environment, addEventListener may not behave as expected. @ https://kr.bluebottlecoffee.com/cdn/wpm/sf59a8868w8ba6d0d6p6ab5e8acm046c7fc6m.js:1
+[    2746ms] [INFO] pageView @ https://kr.bluebottlecoffee.com/web-pixels@f59a8868w8ba6d0d6p6ab5e8acm046c7fc6/custom/web-pixel-36733181@2/sandbox/modern/:25
+[    2748ms] [INFO] pageView naver @ https://kr.bluebottlecoffee.com/web-pixels@f59a8868w8ba6d0d6p6ab5e8acm046c7fc6/custom/web-pixel-38568189@25/sandbox/modern/:33
+[  319068ms] [INFO] start view_item @ https://kr.bluebottlecoffee.com/web-pixels@f59a8868w8ba6d0d6p6ab5e8acm046c7fc6/custom/web-pixel-38568189@25/sandbox/modern/products/2026-blue-bottle-coffee-holiday-mug:38
+[  319068ms] [INFO] start view_item @ https://kr.bluebottlecoffee.com/web-pixels@f59a8868w8ba6d0d6p6ab5e8acm046c7fc6/custom/web-pixel-36733181@2/sandbox/modern/products/2026-blue-bottle-coffee-holiday-mug:39
+[  319073ms] [LOG] {effect: slide, spaceBetween: 20} @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[  319171ms] [LOG] Gift Box Builder @ https://cdn.shopify.com/extensions/01a1ac05-1cb1-7a7e-a63c-8fdf8c5dad8b/gift-box-builder-1-514/assets/easy-bundle-min.js:35
+[  319173ms] [LOG] bootstap @ https://cdn.shopify.com/extensions/01a1ac05-1cb1-7a7e-a63c-8fdf8c5dad8b/gift-box-builder-1-514/assets/easy-bundle-min.js:1
+[  319293ms] [WARNING] In a sandboxed environment, addEventListener may not behave as expected. @ https://kr.bluebottlecoffee.com/cdn/wpm/sf59a8868w8ba6d0d6p6ab5e8acm046c7fc6m.js:1
+[  319293ms] [LOG] ChannelIO script loaded with plugin key: 4a7023e0-203e-430b-bd7e-cf76617bfc5d @ https://kr.bluebottlecoffee.com/products/2026-blue-bottle-coffee-holiday-mug:4429
+[  319342ms] [WARNING] In a sandboxed environment, addEventListener may not behave as expected. @ https://kr.bluebottlecoffee.com/cdn/wpm/sf59a8868w8ba6d0d6p6ab5e8acm046c7fc6m.js:1
+[  320858ms] [LOG] swiper-pagination-bullet @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[  320858ms] [LOG] index 0 @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[  320858ms] [LOG] swiper-pagination-bullet @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[  320858ms] [LOG] index 1 @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[  320858ms] [LOG] swiper-pagination-bullet @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[  320858ms] [LOG] index 2 @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[  320859ms] [LOG] {loop: true} @ https://kr.bluebottlecoffee.com/cdn/shop/t/2/assets/bbck-theme.js?v=31988092689346503921722480815:1
+[  320947ms] [LOG] bootstap @ https://cdn.shopify.com/extensions/01a1ac05-1cb1-7a7e-a63c-8fdf8c5dad8b/gift-box-builder-1-514/assets/easy-bundle-min.js:1
+[  321016ms] [LOG] ChannelIO script loaded with plugin key: 4a7023e0-203e-430b-bd7e-cf76617bfc5d @ https://kr.bluebottlecoffee.com/:4815
+[  321048ms] [WARNING] In a sandboxed environment, addEventListener may not behave as expected. @ https://kr.bluebottlecoffee.com/cdn/wpm/sf59a8868w8ba6d0d6p6ab5e8acm046c7fc6m.js:1
+[  321058ms] [WARNING] In a sandboxed environment, addEventListener may not behave as expected. @ https://kr.bluebottlecoffee.com/cdn/wpm/sf59a8868w8ba6d0d6p6ab5e8acm046c7fc6m.js:1
+[  322533ms] [INFO] pageView @ https://kr.bluebottlecoffee.com/web-pixels@f59a8868w8ba6d0d6p6ab5e8acm046c7fc6/custom/web-pixel-36733181@2/sandbox/modern/:25
+[  322534ms] [INFO] pageView naver @ https://kr.bluebottlecoffee.com/web-pixels@f59a8868w8ba6d0d6p6ab5e8acm046c7fc6/custom/web-pixel-38568189@25/sandbox/modern/:33
