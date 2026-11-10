@@ -82,14 +82,51 @@ img {
     height: 24px;
 }
 
-.main-pic{
-    width: 100%; height: 683px;
+
+.main-pic {
+    width: 100%;
+    height: 650px;
+    position: relative;
+    overflow: hidden;
 }
 
-.main-pic img{
-    width: 100%; height: 100%;
-    overflow: hidden;
+.main-pic > img {
+    width: 100%;
+    height: 100%;
     object-fit: cover;
-    object-position: center;
     display: block;
+}
+
+.main-copy {
+    position: absolute;
+    left: 6%;
+    bottom: 12%;
+    z-index: 1;
+    color: white;
+}
+
+.main-copy h2 {
+    font-size: 48px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.main-copy p {
+    font-size: 15px;
+    margin: 28px 0 36px;
+}
+
+.main-copy a {
+    width: 260px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    color: #333333;
+    font-size: 13px;
+}
+
+.main-copy a:hover {
+    color: #00a1df;
 }
