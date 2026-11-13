@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2번 해설</title>
+    <style>
+        body { margin: 30px; font-family: Arial, sans-serif; }
+        h1 { font-size: 24px; }
+        p { font-size: 14px; }
+        .list {
+            width: 700px;
+            border: 1px solid #aaa;
+            padding: 20px;
+        }
+        .item {
+            width: 150px;
+            height: 120px;
+            background-color: #ddd;
+            border: 1px solid #aaa;
+            text-align: center;
+        }
+        .list {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+        }
+    </style>
+</head>
+<body>
+    <h1>2번. 상품 카드 가로 정렬 (해설)</h1>
+    <p>상품 카드 3개를 가로로 배치하고, 간격은 15px로, 전체는 가운데 정렬하세요.</p>
+    <p>list에 flex 속성 3개를 넣으세요.</p>
+    <hr>
+    <div class="list">
+            <div class="item">상품 1</div>
+            <div class="item">상품 2</div>
+            <div class="item">상품 3</div>
+        </div>
+    <p><b>정답 코드</b></p><pre>display: flex;
+justify-content: center;
+gap: 15px;</pre><p>display: flex는 상품 카드를 한 줄로 놓습니다. justify-content: center는 카드 묶음을 가로 가운데 정렬하고, gap: 15px는 카드 사이에 간격을 만듭니다.</p>
+</body>
+</html>
